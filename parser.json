@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/arnarg/tree-sitter-todotxt",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
-  "location": null,
-  "lang": "todotxt"
+  "parser_version": "3937c5cd105ec4127448651a21aef45f52d19609",
+  "lang": "todotxt",
+  "location": null
 }
